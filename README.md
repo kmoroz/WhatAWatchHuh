@@ -9,5 +9,5 @@
 </br>
 </br>
 
-A watchface for `Fitbit Versa 3` & `Fitbit Sense`. It displays the current time & weekday with a pinch of existential dread brough to you by your favourite meme.
+A watchface for `Fitbit Versa 3` & `Fitbit Sense`. It displays the current time & weekday with a pinch of existential dread brought to you by your favourite meme.
 
