@@ -1,0 +1,17 @@
+#tintinBubble {
+  x: 137;
+  y: 122;
+  fill: #1a1823;
+}
+
+#captainBubble #time {
+  x: 165;
+  y: 50;
+  fill: #1a1823;
+}
+
+#captainBubble #line {
+  x: 165;
+  y: 73;
+  fill: #1a1823;
+}
