@@ -33,7 +33,4 @@ const tintinBubble = new FitFont({
   letterspacing: 1
 })
 
-// if (today == 'Wednesday')
-//   tintinBubble.letterspacing = 0.5
-
 tintinBubble.text = "Captain, it's " + today
